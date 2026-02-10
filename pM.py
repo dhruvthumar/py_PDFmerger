@@ -25,6 +25,6 @@ def merge_pdfs():
 root = tk.Tk()
 root.title("PDF Merger")
 merge_button = tk.Button(root, text="Merge PDFs", command=merge_pdfs)
-merge_button.pack(pady=20)
+merge_button.pack(pady=100, padx=100)
 root.mainloop()
 
