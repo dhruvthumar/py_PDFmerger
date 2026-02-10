@@ -21,11 +21,11 @@ This is a simple PDF Merger application built using Python and Tkinter.
     Installation:
         1. Install Python 3.x from the official website: https://www.python.org/downloads/
         2. Install the required libraries using pip:
-        ```
-        pip install PyPDF2
-        ```
+            ```
+            pip install PyPDF2
+            ```
         3. Run the application:
-        ```
+            ```
             python pM.py
             ```
 
